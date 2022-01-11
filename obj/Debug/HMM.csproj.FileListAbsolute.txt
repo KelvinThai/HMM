@@ -1,0 +1,31 @@
+D:\Coding\DotNet\HMM\obj\Debug\HMM.Main.resources
+D:\Coding\DotNet\HMM\obj\Debug\HMM.Properties.Resources.resources
+D:\Coding\DotNet\HMM\obj\Debug\HMM.csproj.GenerateResource.cache
+D:\Coding\DotNet\HMM\obj\Debug\HMM.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\HMM\obj\Debug\HMM.Pages.EmployeeForm.resources
+D:\Coding\DotNet\HMM\bin\Debug\HMM.exe.config
+D:\Coding\DotNet\HMM\bin\Debug\HMM.exe
+D:\Coding\DotNet\HMM\bin\Debug\HMM.pdb
+D:\Coding\DotNet\HMM\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Coding\DotNet\HMM\obj\Debug\HMM.csproj.CopyComplete
+D:\Coding\DotNet\HMM\obj\Debug\HMM.exe
+D:\Coding\DotNet\HMM\obj\Debug\HMM.pdb
+D:\Coding\DotNet\HMM\obj\Debug\HMM.Pages.LoginForm.resources
+D:\Coding\DotNet\HMM\obj\Debug\HMM.csproj.AssemblyReference.cache
+D:\Coding\DotNet\HMM\obj\Debug\HMM.DialogForms.NewEmployeeForm.resources
+D:\Coding\DotNet\HMM\obj\Debug\HMM.Pages.ChangePasswordForm.resources
+D:\my repos\HMM\obj\Debug\HMM.csprojAssemblyReference.cache
+D:\my repos\HMM\obj\Debug\HMM.DialogForms.NewEmployeeForm.resources
+D:\my repos\HMM\obj\Debug\HMM.Main.resources
+D:\my repos\HMM\obj\Debug\HMM.Pages.ChangePasswordForm.resources
+D:\my repos\HMM\obj\Debug\HMM.Pages.EmployeeForm.resources
+D:\my repos\HMM\obj\Debug\HMM.Pages.LoginForm.resources
+D:\my repos\HMM\obj\Debug\HMM.Properties.Resources.resources
+D:\my repos\HMM\obj\Debug\HMM.csproj.GenerateResource.cache
+D:\my repos\HMM\obj\Debug\HMM.csproj.CoreCompileInputs.cache
+D:\my repos\HMM\obj\Debug\HMM.exe
+D:\my repos\HMM\obj\Debug\HMM.pdb
+D:\my repos\HMM\bin\Debug\HMM.exe.config
+D:\my repos\HMM\bin\Debug\HMM.exe
+D:\my repos\HMM\bin\Debug\HMM.pdb
+D:\my repos\HMM\obj\Debug\HMM.csproj.CopyComplete
